@@ -1,0 +1,6 @@
+hello world 
+I added this line
+added second line 
+add thrid line 
+
+this line is to test stage commit 
